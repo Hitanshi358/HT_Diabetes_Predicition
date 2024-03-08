@@ -12,6 +12,7 @@ Here are 4 files:
 
 Images of the Model:
 
-![image](https://github.com/Hitanshi358/HT_Diabetes_Predicition/assets/156999133/009a90c1-83eb-422e-8834-9f2fbd4c9ede)
 ![image](https://github.com/Hitanshi358/HT_Diabetes_Predicition/assets/156999133/bc8327b7-4c3a-4deb-8ae0-82f46291b3dd)
+![image](https://github.com/Hitanshi358/HT_Diabetes_Predicition/assets/156999133/009a90c1-83eb-422e-8834-9f2fbd4c9ede)
+
 
